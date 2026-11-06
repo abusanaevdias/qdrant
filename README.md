@@ -1,3 +1,11 @@
+> **Engineering study fork · abusanaevdias**
+>
+> Original project: [qdrant/qdrant](https://github.com/qdrant/qdrant) · Apache-2.0
+> [Engineering notes](ENGINEERING_NOTES.md): use case, architecture, trade-offs and proposed verification.
+> Upstream authorship and license are retained. Portfolio additions are documentation.
+
+---
+
 <p align="center">
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/qdrant/qdrant/raw/master/docs/logo-dark.svg">
